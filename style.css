@@ -18,6 +18,7 @@
 }
 .inputs{
     padding: 60px;
+    justify-content: space-between;
 }
 .inputs h1{
     text-align: center;
@@ -25,4 +26,23 @@
 .log1{
     width: 180px;
     height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.regpic{
+    width: 400px;
+    height: 500px;
+    margin-right: 40px;
+    border: 5px solid rgb(75, 163, 204);
+    border-right: 10px;
+}
+.register{
+    background-color: rgb(75, 163, 204);
+    width: 400px;
+    height: 500px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
 }
