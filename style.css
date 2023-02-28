@@ -1,0 +1,28 @@
+
+.all{
+    display: flex;
+    padding: 50px 150px;
+}
+.sidepic{
+    width: 400px;
+    height: 500px;
+    margin-right: 40px;
+    border: 5px solid rgb(75, 163, 204);
+    border-right: 10px;
+}
+.login{
+    background-color: rgb(75, 163, 204);
+    width: 400px;
+    height: 500px;
+
+}
+.inputs{
+    padding: 60px;
+}
+.inputs h1{
+    text-align: center;
+}
+.log1{
+    width: 180px;
+    height: 40px;
+}
